@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proje-adi/static/css/main.ea61c9ae.css",
+    "main.js": "/proje-adi/static/js/main.c55f91bb.js",
+    "index.html": "/proje-adi/index.html",
+    "main.ea61c9ae.css.map": "/proje-adi/static/css/main.ea61c9ae.css.map",
+    "main.c55f91bb.js.map": "/proje-adi/static/js/main.c55f91bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea61c9ae.css",
+    "static/js/main.c55f91bb.js"
+  ]
+}
