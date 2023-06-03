@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/proje-adi/static/css/main.ea61c9ae.css",
-    "main.js": "/proje-adi/static/js/main.c55f91bb.js",
-    "index.html": "/proje-adi/index.html",
-    "main.ea61c9ae.css.map": "/proje-adi/static/css/main.ea61c9ae.css.map",
-    "main.c55f91bb.js.map": "/proje-adi/static/js/main.c55f91bb.js.map"
+    "main.css": "/Adam-Asmaca-Oyunu/static/css/main.ea61c9ae.css",
+    "main.js": "/Adam-Asmaca-Oyunu/static/js/main.c55f91bb.js",
+    "index.html": "/Adam-Asmaca-Oyunu/index.html",
+    "main.ea61c9ae.css.map": "/Adam-Asmaca-Oyunu/static/css/main.ea61c9ae.css.map",
+    "main.c55f91bb.js.map": "/Adam-Asmaca-Oyunu/static/js/main.c55f91bb.js.map"
   },
   "entrypoints": [
     "static/css/main.ea61c9ae.css",
