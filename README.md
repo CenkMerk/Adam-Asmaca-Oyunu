@@ -6,4 +6,4 @@
 
 - Alt bileşenlere veri aktarmak için props kullanımı
 
-**[Buradan](https://CenkMerk.github.io/Alisveris-Sepeti-Uygulamasi) projenin çalışır halini inceleyebilirsiniz.**
+**[Buradan](https://cenkmerk.github.io/Adam-Asmaca-Oyunu/) projenin çalışır halini inceleyebilirsiniz.**
